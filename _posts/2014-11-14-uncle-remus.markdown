@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Uncle Remus Chicken Review"
+title:  Uncle Remus
 date:   2014-11-14 12:00:00 -0600
 author: Jeff
-subtitle: "Score: Two and a Half Chicken Legs"
+subtitle: Stories from the UNCLE REMUS Saucy Fried Chicken on 5611 W Madison St, Chicago, IL
+score: 🍗🍗 & 1/2 🍗
 background: /assets/images/uncle_remus_post.jpg
+attendies: Jeff, Remi, Tommy-J (aka Squatty-T), Bolillo, Sleepy Kyle & Davey
 ---
 
 I don't know about you, but I only found the chicken to be adequate. Maybe I set my expectations a little too high, considering I've been scheming to visit this place since the summer. I felt like the chicken was very plain and unseasoned. I felt like every bite was literally just biting into fried flour and cornstarch. I didn't try the spicy sauce, but the mild sauce was very, um, asian tasting. It was this really goopy, fruity, glue like substance that would've been better served with egg roles.

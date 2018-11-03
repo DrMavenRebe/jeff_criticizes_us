@@ -14,10 +14,26 @@ layout: default
       <div class="col-lg-8 col-md-10 mx-auto">
         <div class="post-heading">
           <h1>{{ page.title }}</h1>
+
           {% if page.subtitle %}
-          <h2 class="subheading">{{ page.subtitle }}</h2>
+          <h3 class="subheading">{{ page.subtitle }}</h3>
           {% endif %}
-          <span class="meta">Chicken consumed on {{ page.date | date: '%B %d, %Y' }}</span>
+
+          {% if page.score %}
+          <h2 class="scoreheading">SCORE: {{ page.score }}</h2>
+          {% endif %}
+
+
+
+          <span class="meta">
+            Chicken consumed on 
+            {{ page.date | date: '%B %d, %Y' }}
+
+            {% if page.attendies %}
+              by 
+              {{ page.attendies }}</h2>
+            {% endif %}
+          </span>
         </div>
       </div>
     </div>

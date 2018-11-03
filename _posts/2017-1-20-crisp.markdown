@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Crisp Chicken Review"
+title:  Crisp
 date:   2016-11-25 19:30:27 -0800
 author: Jeff
-subtitle: "Score: Three Chicken Legs"
+subtitle: Stories from Crip on 2940 N Broadway, Chicago, IL 
+score: 🍗🍗🍗
 background: /assets/images/crisp_post.jpg
 ---
 

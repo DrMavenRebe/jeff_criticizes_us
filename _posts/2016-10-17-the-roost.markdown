@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "The Roost Chicken Review"
+title:  The Roost
 date:   2016-10-17 12:00:00 -0600
 author: Jeff
-subtitle: "Score: Three and a Half Chicken Legs"
+subtitle: Stories from The Roost Carolina Kitchen on 1467 W Irving Park Rd, Chicago, IL
+score: 🍗🍗🍗 & 1/2 🍗
 background: /assets/images/the_roost_post.jpeg
-
 ---
 
 The Roost was our first stop on The Crawl that was exclusively indoor seating and also the first stop that was exclusively counter service. As a result, it created a very quaint, authentic vibe which I can only imagine is a more common feature south of the Mason Dixon Line. Couple other areas which contributed to the authentic southern chicken-y vibe were the communal tables, cozy eating areas and limited menu (more to come).
