@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+
+  {% include head.html %}
+
+  <body style="background-repeat: no-repeat; background-size: 100% 100%; background-image: url('{{ page.background}}')">
+
+    {% include navbar.html %}
+
+    <div class="not_found" >
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-10 mx-auto">
+            <div class="page-heading">
+              <h1 class="site-heading" style="padding-bottom: 0"> Huh? </h1>
+              <h2 class="subheading">
+                Yeah... that page don't exist no more
+              </h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-10 mx-auto">
+            <p class="copyright" style="color: white">A Wired & Tired & Blog. &copy; {{ 'now' | date: "%Y" }}</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+  </body>
+
+</html>
+
